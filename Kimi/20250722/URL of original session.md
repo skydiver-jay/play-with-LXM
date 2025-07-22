@@ -1,0 +1,1 @@
+[供应链攻击中，对预训练AI编程模型投毒并针对企业开发人员注入漏洞的研究分析](https://www.kimi.com/share/d1vglig7aa348jrq6isg)
